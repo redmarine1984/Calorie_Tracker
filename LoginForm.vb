@@ -1,4 +1,5 @@
-﻿Public Class LoginForm
+﻿'
+Public Class LoginForm
     Private Db As New DBHelper
     Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
         Dim username = txtUsername.Text

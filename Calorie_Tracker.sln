@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calorie_Tracker", "Calorie_Tracker.vbproj", "{F6739A07-C803-4164-A920-C0401C27EDB5}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Menstrual_Cycle_Tracker", "..\Menstrual Cycle Tracker\Menstrual_Cycle_Tracker.vbproj", "{84F35118-2B7F-47CB-96EB-A409B3BB59CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{F6739A07-C803-4164-A920-C0401C27EDB5}.Debug|x86.Build.0 = Debug|x86
 		{F6739A07-C803-4164-A920-C0401C27EDB5}.Release|x86.ActiveCfg = Release|x86
 		{F6739A07-C803-4164-A920-C0401C27EDB5}.Release|x86.Build.0 = Release|x86
+		{84F35118-2B7F-47CB-96EB-A409B3BB59CD}.Debug|x86.ActiveCfg = Debug|x86
+		{84F35118-2B7F-47CB-96EB-A409B3BB59CD}.Debug|x86.Build.0 = Debug|x86
+		{84F35118-2B7F-47CB-96EB-A409B3BB59CD}.Release|x86.ActiveCfg = Release|x86
+		{84F35118-2B7F-47CB-96EB-A409B3BB59CD}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
